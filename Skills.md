@@ -13,5 +13,5 @@ These are my prominent technical skills
   - Operating Systems - Windows Server 2016/2019, Hyper-V Server 2016, Windows XP/7/10/11, MacOS,
     Linux (RHEL, CentOS 7/8, Debian, Ubuntu, Rocky Linux, Clear Linux), Updates and Patching
   - Database - SQL, NoSQL, RDS, Amazon Aurora, Azure Cosmos DB, Hadoop, Apache Spark, Redis
-  - Monitoring - Elastic (ELK), CloudWatch, Splunk, Azure Monitor, Prometheus, HTop     
+  - Monitoring - Elastic (ELK), CloudWatch, Splunk, Azure Monitor, Prometheus, Wireshark, Nmap, Cacti, HTop     
 
